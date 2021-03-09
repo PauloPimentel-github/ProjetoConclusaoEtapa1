@@ -18,3 +18,6 @@ serem coletadas.
 
 # Controles
 Os controles são simples, movimento lateral (esquerda e direita) e um pulo.
+
+## Link de Referência do Curso
+[https://aprendaunity.com.br/]
