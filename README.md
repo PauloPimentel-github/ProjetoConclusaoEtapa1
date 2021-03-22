@@ -21,3 +21,7 @@ Os controles são simples, movimento lateral (esquerda e direita) e um pulo.
 
 ## Link de Referência do Curso
 [https://aprendaunity.com.br/]
+
+## Link para download do executável 
+O projeto foi compilado para rodar na plataforma Windows
+[https://drive.google.com/drive/folders/1LC4DzZkSi-ieUyKxPze9tWQ7eflmFV3E?usp=sharing]
