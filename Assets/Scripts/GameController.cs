@@ -105,7 +105,7 @@ public class GameController : MonoBehaviour {
 		this.score++;
 		this.textScore.text = this.score.ToString();
 
-		if (this.score == 10)
+		if (this.score == 100)
 		{
 			Instantiate(this.mouseHousePrefab);
 			this.mouseHousePrefab.transform.position = new Vector3(this.positionHouse.position.x, this.positionHouse.position.y, 0);
